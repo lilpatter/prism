@@ -6,7 +6,7 @@ Your games, in their own colours. A small native app for Windows 10 and 11, by P
 
 More at [lilpatter.github.io/prism](https://lilpatter.github.io/prism/).
 
-<p align="center"><img src="screenshots/home.jpg" width="100%" alt="Home with FragPunk active at 200% vibrance, the colours on screen, and a shelf of game profiles." /></p>
+<p align="center"><img src="screenshots/home.jpg" width="100%" alt="Home with FragPunk active in the top bar, its colours on screen, and every game profile." /></p>
 
 ## What it does
 
