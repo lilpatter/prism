@@ -16,7 +16,7 @@ More at [lilpatter.github.io/prism](https://lilpatter.github.io/prism/).
 - **Live preview.** The profile you're editing is on screen as you drag.
 - **Any graphics card.** NVIDIA, AMD and Intel alike. Prism doesn't touch driver settings and needs no admin rights.
 - **Nothing injected.** No hooks, overlays or DLLs in your games, so it stays clear of anti-cheat.
-- **Light in the tray.** Close the window and Prism keeps switching profiles from the tray using about 2 MB of memory.
+- **Light in the tray.** Close the window and Prism keeps switching profiles from the tray using about 4 MB of memory (private memory and working set alike, measured on Windows 11).
 - Coming from Digital Vibrance? Prism brings your profiles over on first run.
 
 ## Screenshots
